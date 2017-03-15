@@ -29,6 +29,7 @@ public abstract class BaseActivity extends AppCompatActivity {
 
     private ActivityComponent activityComponent;
 
+    // デバッグツール表示用
     private Debot debot;
 
     @NonNull
